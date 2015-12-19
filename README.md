@@ -6,11 +6,11 @@ You need to have node(version 5.1.1) installed on you machine.
 
 To update node using npm
 
-sudo npm cache clean -f
+  sudo npm cache clean -f
 
-sudo npm install -g n
+  sudo npm install -g n
 
-sudo n stable
+  sudo n stable
 
 
 To setup:
